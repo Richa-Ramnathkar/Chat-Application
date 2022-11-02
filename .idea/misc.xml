@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/chitchat_final/Batch_1_Team_2_ChitChat/Batch_1_Team_2_ChitChat/ChitChat(final)/app/src/main/res/drawable/avatar.xml" value="0.1275" />
+        <entry key="..\:/chitchat_final/Batch_1_Team_2_ChitChat/Batch_1_Team_2_ChitChat/ChitChat(final)/app/src/main/res/drawable/bg_edittext.xml" value="0.1275" />
+        <entry key="..\:/chitchat_final/Batch_1_Team_2_ChitChat/Batch_1_Team_2_ChitChat/ChitChat(final)/app/src/main/res/drawable/bg_receiver.xml" value="0.1275" />
+        <entry key="..\:/chitchat_final/Batch_1_Team_2_ChitChat/Batch_1_Team_2_ChitChat/ChitChat(final)/app/src/main/res/drawable/bg_sender.xml" value="0.1275" />
+        <entry key="..\:/chitchat_final/Batch_1_Team_2_ChitChat/Batch_1_Team_2_ChitChat/ChitChat(final)/app/src/main/res/drawable/ic_bot_icon.xml" value="0.1275" />
+        <entry key="..\:/chitchat_final/Batch_1_Team_2_ChitChat/Batch_1_Team_2_ChitChat/ChitChat(final)/app/src/main/res/drawable/ic_chat_white.xml" value="0.1275" />
+        <entry key="..\:/chitchat_final/Batch_1_Team_2_ChitChat/Batch_1_Team_2_ChitChat/ChitChat(final)/app/src/main/res/layout/activity_chat_details.xml" value="0.17552083333333332" />
+        <entry key="..\:/chitchat_final/Batch_1_Team_2_ChitChat/Batch_1_Team_2_ChitChat/ChitChat(final)/app/src/main/res/layout/activity_help_page.xml" value="0.17552083333333332" />
+        <entry key="..\:/chitchat_final/Batch_1_Team_2_ChitChat/Batch_1_Team_2_ChitChat/ChitChat(final)/app/src/main/res/layout/activity_main.xml" value="0.17552083333333332" />
+        <entry key="..\:/chitchat_final/Batch_1_Team_2_ChitChat/Batch_1_Team_2_ChitChat/ChitChat(final)/app/src/main/res/layout/activity_settings.xml" value="0.17552083333333332" />
+        <entry key="..\:/chitchat_final/Batch_1_Team_2_ChitChat/Batch_1_Team_2_ChitChat/ChitChat(final)/app/src/main/res/layout/activity_splash.xml" value="0.17552083333333332" />
+        <entry key="..\:/chitchat_final/Batch_1_Team_2_ChitChat/Batch_1_Team_2_ChitChat/ChitChat(final)/app/src/main/res/layout/fragment_chats.xml" value="0.17552083333333332" />
+        <entry key="..\:/chitchat_final/Batch_1_Team_2_ChitChat/Batch_1_Team_2_ChitChat/ChitChat(final)/app/src/main/res/layout/fragment_status.xml" value="0.17552083333333332" />
+        <entry key="..\:/chitchat_final/Batch_1_Team_2_ChitChat/Batch_1_Team_2_ChitChat/ChitChat(final)/app/src/main/res/layout/sample_receiver.xml" value="0.17552083333333332" />
+        <entry key="..\:/chitchat_final/Batch_1_Team_2_ChitChat/Batch_1_Team_2_ChitChat/ChitChat(final)/app/src/main/res/layout/sample_sender.xml" value="0.17552083333333332" />
+        <entry key="..\:/chitchat_final/Batch_1_Team_2_ChitChat/Batch_1_Team_2_ChitChat/ChitChat(final)/app/src/main/res/layout/sample_show_users.xml" value="0.17552083333333332" />
+        <entry key="..\:/chitchat_final/Batch_1_Team_2_ChitChat/Batch_1_Team_2_ChitChat/ChitChat(final)/app/src/main/res/menu/menu.xml" value="0.17552083333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
